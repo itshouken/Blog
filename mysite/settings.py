@@ -25,7 +25,7 @@ SECRET_KEY = 'l*g)g4z7_e_m0oey*mgp=*3-*1sfhb8d4gcodv1)kh=rps1@a8'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1','cottageofstars.pythonanywhere.com']
 
 
 # Application definition
@@ -106,7 +106,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'Europe/Paris'
+TIME_ZONE = 'Asia/Seoul'
 
 USE_I18N = True
 
