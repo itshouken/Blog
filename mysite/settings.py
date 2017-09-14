@@ -25,7 +25,8 @@ SECRET_KEY = 'l*g)g4z7_e_m0oey*mgp=*3-*1sfhb8d4gcodv1)kh=rps1@a8'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','cottageofstars.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1','cottageofstars.com', 
+                'itshouken.pythonanywhere.com']
 
 
 # Application definition
